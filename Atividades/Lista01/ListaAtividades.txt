@@ -1,0 +1,28 @@
+Lista de Exercícios Auxiliar 1
+Comandos Básicos
+1. Faça um algoritmo onde o usuário digita a
+temperatura em graus Celsius e o algoritmo
+converte o valor para graus Farenheit. A
+fórmula de conversão é:
+°F = °C * 1,8 + 32
+2. O custo de um carro novo ao consumidor, é a soma do custo de fábrica com o custo dos
+impostos (aplicados ao custo de fábrica), acrescido do percentual do revendedor. Supondo
+que a percentagem do revendedor seja de 10% e que os impostos custam 45% do custo de
+fábrica, faça um algoritmo que determine o preço final do automóvel (custo ao
+consumidor).
+3. Construa um algoritmo para pagamento de comissão de vendedores de peças, levando em
+consideração que sua comissão será de 5% do total da venda e que você tem os seguintes
+dados: Identificação do vendedor, Preço unitário da peça e Quantidade vendida.
+4. Uma pessoa comprou 3 (três) artigos em uma loja. Para cada artigo, tem-se nome, preço e
+percentual de desconto. Faça um algoritmo que imprima nome do artigo, preço sem
+desconto, preço com desconto de cada artigo e o total a pagar.
+5. Faça um algoritmo que leia os preços de uma mercadoria em 17/03 e 18/03, tendo como
+base a variação dos preços desta mercadoria, calcule a taxa de inflação ou deflação ocorrida
+no período.
+6. Considerando que para um consórcio, sabe-se o número total de prestações, a quantidade
+de prestações pagas e o valor atual da prestação, escreva um algoritmo que determine o
+total pago pelo consorciado e o saldo devedor.
+7. Faça um algoritmo para calcular a quantidade de barbante necessária para amarrar um
+pacote. O algoritmo terá como entrada a largura, altura e comprimento do pacote, em
+centímetros. Para que o pacote fique firme são necessárias 3 amarras e cada amarra
+consome 10 cm de barbante.
