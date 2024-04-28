@@ -1,0 +1,29 @@
+Lista de Exercícios Oficial 3
+Comando FOR
+
+1. Faça um algoritmo que leia o nome e o sexo de 10 pessoas e ao final apresente o total de
+homens e o total de mulheres.
+
+2. Construa um algoritmo que leia o nome e a nota de 20 alunos e ao final informe a média da
+turma e se existe algum aluno com nota igual a 0 (zero).
+
+3. Construa um algoritmo que leia o nome, a idade e a altura de 20 pessoas e ao final
+apresente:
+a) A média de idade das pessoas com mais de 1,80 de altura
+b) O total de pessoas com mais de 35 anos
+c) O nome do mais alto
+d) O nome do mais novo
+
+4. Construa um algoritmo que calcule e apresente na tela a tabuada completa do número 1 ao
+10.
+
+5. Faça um algoritmo que simule um sistema de eleição para 20 eleitores. Nesse sistema
+existem 3 candidatos que são votados através de seus códigos. São eles:
+1 = Candidato 1;
+2 = Candidato 2;
+3 = Candidato 3;
+5 = Voto nulo;
+6 = Voto em branco;
+Elabore um algoritmo que calcule e escreva o total de votos e o percentual de votos para cada
+candidato, para os votos brancos e para os nulos. Ao final, Algoritmo também deverá escrever
+na tela o nome do vencedor da eleição.
