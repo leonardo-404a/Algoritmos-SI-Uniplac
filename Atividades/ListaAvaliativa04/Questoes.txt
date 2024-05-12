@@ -1,0 +1,46 @@
+Lista de Exercícios Oficial 4
+Comando WHILE
+
+1. Construa um algoritmo que leia o nome e a nota de 15 alunos na prova de algoritmos e ao
+final apresente a média das notas da turma. Se o usuário desejar encerrar a leitura antes dos
+15 alunos, o mesmo deve digitar “fim” para o nome.
+
+2. Construa um algoritmo que leia o nome e a idade de vários alunos de uma turma e ao final
+apresente na tela o nome e a idade do aluno mais velho. Como o número de alunos é
+indeterminado, faça com que para parar a leitura dos nomes e idades, o usuário tenha que
+digitar 0 (zero) para a idade.
+
+3. Construa um algoritmo que simule uma eleição. Essa eleição possui 3 candidatos. O algoritmo
+deve ler o voto de um número indeterminado de eleitores e apresentar na tela o percentual
+de cada candidato.
+Para votar no candidato 1 utilize a entrada ‘1’
+Para votar no candidato 2 utilize a entrada ‘2’
+Para votar no candidato 3 utilize a entrada ‘3’
+Para encerrar a leitura dos votos utilize a entrada ‘0’
+
+4. Elabore um algoritmo que leia o nome, o preço unitário e a quantidade vendida de vários
+produtos, que serão informados pelo usuário. Obs.: como a quantidade de produtos é
+indeterminada, para que o processo de leitura dos dados termine, o usuário deve digitar
+“fim” quando for ler a variável que armazena o nome do produto.
+Ao final, o algoritmo deverá apresentar:
+a) O nome e o valor do produto mais barato;
+b) O nome e a quantidade do produto mais vendido;
+c) A média de preço dos produtos.
+
+5. Construa um algoritmo que leia o nome, o sexo e o salário de vários funcionários de uma
+empresa. Ao final, o algoritmo deve apresentar qual sexo possui a maior média salarial. Para
+definir o sexo utilize a legenda: ‘M’ para masculino, ‘F’ para feminino e ‘X’ para encerrar a
+leitura dos dados.
+
+6. Uma empresa de fornecimento de energia elétrica faz a leitura mensal dos medidores de
+consumo. Para cada consumidor são digitados os seguintes dados: número do consumidor,
+quantidade de kwh consumidos durante o mês e o tipo (código) do consumidor (1-
+residencial, 2-comercial, 3-industrial)
+Residencial - preço em reais por kwh = 0,3
+Comercial - preço em reais por kwh = 0,5
+Industrial - preço em reais por kWh = 0,7
+Os dados devem ser lidos até que seja encontrado um consumidor com número 0 (zero).
+Calcular e imprimir:
+a) O custo total para cada consumidor
+b) O total de consumo para os três tipos de consumidor
+c) Qual categoria consome mais?
